@@ -1,3 +1,4 @@
+// @ts-nocheck
 import '../styles/globals.css'
 
 function MyApp({ Component, pageProps }) {
